@@ -1,10 +1,6 @@
 from flask import Flask
 from flask_restplus import Resource, Api
-from flask_jwt_extended import (
-    JWTManager, jwt_required, create_access_token,
-    get_jwt_identity
-)
-from models.user import User
+from flask_jwt_extended import JWTManager
 from resources.user import UserRegister, Users, UserLogin, TokenRefresh
 from resources.ticket import TicketResource
 from flask_cors import CORS
