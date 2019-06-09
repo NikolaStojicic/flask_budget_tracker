@@ -1,0 +1,10 @@
+env
+resources/__pycache__/user.cpython-36.pyc
+.vscode/settings.json
+__pycache__/db.cpython-36.pyc
+models/__pycache__/__init__.cpython-36.pyc
+models/__pycache__/ticket.cpython-36.pyc
+models/__pycache__/user.cpython-36.pyc
+resources/__pycache__/__init__.cpython-36.pyc
+resources/__pycache__/file.cpython-36.pyc
+resources/__pycache__/ticket.cpython-36.pyc
